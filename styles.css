@@ -1,0 +1,50 @@
+body{
+    height: 400vh;
+}
+
+*{
+    box-sizing: content-box;
+}
+h1{
+    position: sticky;
+    left: 0;
+    top:0;
+    padding: 10px;
+    background-color: rgb(238,167,0);
+    color: antiquewhite;
+    border: dotted;
+}
+
+h2{
+    margin: 10px;
+    background-color: cornflowerblue;
+    position: relative;
+}
+
+h3{
+    border:1xp solid black;
+    position: static;
+    top:10px;
+    color: gold;
+    background-color: black;
+
+}
+
+p{
+    position: absolute;
+    background-color: gold;
+    top:  120px;
+    /* button:width: 120px; */
+    left: 80px;
+    /* right: 80px; */
+
+}
+
+
+h4{
+    background-color: black;
+    color: darkorange;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}

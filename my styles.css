@@ -1,0 +1,49 @@
+span{
+    color:blue;
+}
+*{
+    margin: 5%;
+    padding: 0;
+    box-sizing: border-box;
+}
+ div > input {
+    border-radius:200px;
+    width:50%;
+    height: 40px;
+    background-attachment: fixed;
+}
+button{
+    position:relative;
+    right: 23px;
+}
+
+.btn{
+    position:relative;
+    right: 80px;
+}
+h1{
+    color:red;
+}
+
+form{
+    margin-left: 1rem;
+    min-width: 100px;
+    background:lightblue;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+h1{
+    background:white;
+    height: 4pc;
+    width: 23pc;
+    
+}
+img{
+    width:200px;
+    height:200px;
+    position:relative;
+    left: 20pc;
+    right:20pc;
+}

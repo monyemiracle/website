@@ -1,0 +1,36 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color:lightskyblue;
+    padding: 10px;
+}
+   
+    
+
+.grid-item{
+    background-color:rgb(42, 138, 165);
+    padding: 30px;
+    font-size: 30px;
+    text-align: center;
+    border:1px solid;
+}
+form{
+    margin-left: 1rem;
+    min-width: 100px;
+    background: #fff;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+p{
+    color: red;
+}
+form{
+    color: black;
+}
+div{
+    background-color: rgb(42, 134, 165);
+    border-radius: 10px;
+}
+
